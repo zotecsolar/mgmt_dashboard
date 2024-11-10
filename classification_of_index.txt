@@ -1,0 +1,5 @@
+0: not started
+1: planned
+2: ongoing
+3: optimizing
+4: completed
